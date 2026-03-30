@@ -11,7 +11,7 @@ project:
   
   date: 2025-11-02
   github: https://github.com/cdrans/Aircraft_Structural_Analysis
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+
   
 extends:
   - plugins.yml
@@ -20,7 +20,7 @@ extends:
 
 site:
   template: book-theme
- options:
+  options:
     favicon: style/favicon.ico
     style: style/custom.css
     logo: style/tudelft.png
