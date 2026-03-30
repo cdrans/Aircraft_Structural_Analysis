@@ -13,7 +13,7 @@ no-update-date: true
 
 ## Aircraft Structural Analysis and Design Textbook
 
-An interactive course reader for AE2135-I: Aircraft Structural Analysis and Design_
+An interactive course reader for AE2135-I: Aircraft Structural Analysis and Design
  
 
 Originally created by  
