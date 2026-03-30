@@ -19,7 +19,7 @@ An interactive course reader for AE2135-I: Aircraft Structural Analysis and Desi
 Originally created by  
 *Calvin Rans*
 
-![](../Figures/Cover.PNG)
+![](../Figures/Cover2.jpeg)
 
 +++
 
