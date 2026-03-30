@@ -1,5 +1,5 @@
 ---
-title: TUD JB2 Template
+title: Aircraft Structural Analysis and Design Textbook
 site:
   hide_outline: true
   hide_toc: true
@@ -11,14 +11,13 @@ no-update-date: true
 
 +++ { "kind": "split-image" }
 
-## Template for TU Delft Jupyter Book 2 
+## Aircraft Structural Analysis and Design Textbook
 
-a quick setup for your open publishing project.
-
-{button}`Use this template <https://github.com/TUD-JB-Templates/JB2>`  
+An interactive course reader for AE2135-I: Aircraft Structural Analysis and Design_
+ 
 
 Originally created by  
-*Freek Pols*
+*Calvin Rans*
 
 ![](../Figures/Cover.PNG)
 
