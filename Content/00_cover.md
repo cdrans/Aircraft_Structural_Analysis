@@ -11,7 +11,7 @@ no-update-date: true
 
 +++ { "kind": "split-image" }
 
-## Aircraft Structural Analysis and Design Textbook
+## Aircraft Structural Analysis & Design
 
 An interactive course reader for AE2135-I: Aircraft Structural Analysis and Design
  

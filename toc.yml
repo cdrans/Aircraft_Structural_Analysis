@@ -2,9 +2,9 @@ version: 1
 project:
   id: 62889421-1fa2-49f1-87cf-a00627a430d2
   toc:
-    - file: Content/index.md                      # the landing page
-    - file: Content/Bending/00_bending.md
+    - file: Content/00_cover.md                      # the landing page
+    - file: Content/01_preface.md
+    - file: Content/02_Design_and_Analysis_Primer.md
+    - file: Content/03_Bending.md
       children:
-      - file: Content/Bending/01_sym_bending.md
-      - file: Content/Bending/02_bia_bending.md
-      - file: Content/Bending/03_unsym_bending.md
+      - file: Content/03-1_Bend_EPK.md
